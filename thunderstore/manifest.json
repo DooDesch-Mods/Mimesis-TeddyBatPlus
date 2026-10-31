@@ -1,0 +1,12 @@
+{
+  "name": "TeddyBatPlus",
+  "version_number": "0.0.0",
+  "website_url": "https://github.com/DooDesch-Mods/Mimesis-TeddyBatPlus",
+  "description": "Keep your Teddy Bat unbreakable. Damage, reach and cooldown remain native until you change them.",
+  "dependencies": [
+    "LavaGang-MelonLoader-0.7.3"
+  ],
+  "contributors": [
+    "DooDesch"
+  ]
+}
